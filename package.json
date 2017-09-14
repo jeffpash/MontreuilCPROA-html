@@ -1,0 +1,23 @@
+{
+  "name": "montreuilcproa-html",
+  "version": "1.0.0",
+  "description": "responsive design",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffpash/MontreuilCPROA-html.git"
+  },
+  "author": "jeffpash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffpash/MontreuilCPROA-html/issues"
+  },
+  "homepage": "https://github.com/jeffpash/MontreuilCPROA-html#readme"
+}
