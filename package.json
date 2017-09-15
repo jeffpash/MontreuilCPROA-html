@@ -4,6 +4,7 @@
   "description": "responsive design",
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^1.0.0",
     "node-sass": "^4.5.3"
   },
   "devDependencies": {},
